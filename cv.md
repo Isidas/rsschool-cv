@@ -1,11 +1,9 @@
 # Igor Appelgants
 ## Junior Frontend developer
----
 ### Contacts:
 * **Phone**: +7(904)202-19-33
 * **Email**: igor.appelgants123@gmail.com
 * **Telegram**: @IgorAppelgants 
----
 ## My skills:
 + Html
 + Css \ Scss \ Sass \ Less
@@ -15,7 +13,6 @@
 + VSCode
 + Figma
 + Avacode
----
 ## About me
 Responsibility, punctuality, completion of tasks
 on time.
@@ -26,7 +23,6 @@ of website pages, now there is a great desire to master
 a full-fledged frontend on the react.
 I am ready to devote all my free time to mastering the frontend.
 
----
 ## Code example:
 The sample code is taken from the map on CodeWars
 
@@ -52,16 +48,13 @@ function comp(array1, array2){
   }
 }
 ```
----
 ## My pet projects:
 * LightBoard [Isidas.github.io/portfolio/board/](LightBoard "LightBoard")
 * Landing page "Mobile recycling collection point"[Isidas.github.io/portfolio/ekologic/](LandinPage "Landing Page")
 * Business card website [Isidas.github.io/portfolio/registrator/](BusinesCarWebsite "Business card website")
----
 ## Education
 At the moment I am taking a course on Udemy "JavaScript + React"
 
----
 ## Languages:
 * Russian — Native
 * English — Pre-Intermediate
