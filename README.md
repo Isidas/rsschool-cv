@@ -1,1 +1,1 @@
-https://Isidas.github.io/rsschool-cv/cv
+https://Isidas.github.io/rsschool-cv/
